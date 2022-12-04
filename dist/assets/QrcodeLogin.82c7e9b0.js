@@ -1,0 +1,1 @@
+import{_ as o,b as e,o as s,c as t,d as n}from"./index.f8399b34.js";const c="/assets/vite.4a748afd.svg";const _={name:"QrcodeLogin",setup(){e(()=>{console.log("onMounted")})}},a={class:"qrcode-login"},r=n("img",{src:c},null,-1),d=[r];function i(l,p,u,g,f,m){return s(),t("div",a,d)}const h=o(_,[["render",i]]);export{h as default};
